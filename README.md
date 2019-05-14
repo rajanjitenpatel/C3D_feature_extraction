@@ -4,7 +4,7 @@ Use C3D_feature_extraction_Colab.ipynb to run on Colaboratory.
 
 Other files are just for reference.
 
-On following data-set we have perform feature extraction.
+On following data-set we have perform video feature extraction.
 
   
   ### Real-world anomaly detection in surveillance videos.
