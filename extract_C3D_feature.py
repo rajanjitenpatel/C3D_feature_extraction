@@ -31,7 +31,7 @@ def check_trained_model(trained_model):
     ''' Check if trained_model is there. otherwise, download '''
 
     if os.path.isfile(trained_model):
-        print("[Info] trained_model={} found. Good to go!")
+      #  print("[Info] trained_model={} found. Good to go!")
     else:
         download_cmd = [
                 "wget",
